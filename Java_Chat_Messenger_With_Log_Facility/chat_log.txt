@@ -1,0 +1,4 @@
+Client : Hello Server
+Server : Hi Client
+Client : Testing chat communication
+Server : communication successful
