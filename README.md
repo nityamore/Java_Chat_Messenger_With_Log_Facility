@@ -11,7 +11,9 @@ The application also includes a chat logging feature, which stores all exchanged
 This project demonstrates core concepts such as:
 
 Java Networking
+
 I/O Streams
+
 Client-Server Architecture
 
 ---
@@ -48,6 +50,8 @@ File Handling (FileWriter, BufferedWriter)
 
 
 📂 Project Structure
+
+
 Java-Chat-Messenger-With-Log-Facility/
 │
 ├── src/
