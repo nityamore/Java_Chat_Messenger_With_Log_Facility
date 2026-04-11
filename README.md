@@ -118,17 +118,25 @@ The log file maintains a record of all chat communication for future reference.
 ### Server
 
 Server application is running...
+
 Server is waiting for the client at port number 5100
+
 Connection established with the client...
+
 Client says : Hello Server
+
 Enter message for client :
+
 Hi Client
 
 ### Client
 
 Client application is running...
+
 Connection established with the Server...
+
 Hello Server
+
 Server says : Hi Client
 
 ---
