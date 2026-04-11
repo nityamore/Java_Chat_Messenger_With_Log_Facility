@@ -16,18 +16,26 @@ Client-Server Architecture
 
 
 Real-time communication between client and server
+
 TCP-based socket communication
+
 Console-based chat interface
+
 Automatic message logging to file
+
 Simple and lightweight design
+
 Easily extendable to multi-client systems
 
 🛠️ Technologies Used
 
 
 Java
+
 Socket Programming
+
 Java I/O Streams
+
 File Handling (FileWriter, BufferedWriter)
 
 📂 Project Structure
@@ -78,9 +86,13 @@ java Client
 ## 💬 How the Application Works
 
 -The server starts and waits for a client connection
+
 -The client connects using a socket
+
 -Messages are exchanged using input/output streams
+
 -All messages are stored in logs/chat_log.txt
+
 -Communication continues until the session ends
   
 ---
