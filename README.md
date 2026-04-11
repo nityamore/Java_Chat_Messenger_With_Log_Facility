@@ -69,7 +69,7 @@ Java-Chat-Messenger-With-Log-Facility/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/nityamore/Java-Chat-Messenger-With-Log-Facility.git
+git clone https://github.com/nityamore/Java_Chat_Messenger_With_Log_Facility.git
 
 ### 2️⃣ Navigate to Source Directory
 
