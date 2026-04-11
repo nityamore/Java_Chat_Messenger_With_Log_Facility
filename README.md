@@ -9,7 +9,9 @@ This project demonstrates core concepts like:
 
 
 Java Networking
+
 I/O Streams
+
 Client-Server Architecture
 
 
@@ -41,6 +43,8 @@ Client-Server Architecture
 -Java I/O Streams
 
 -File Handling (FileWriter, BufferedWriter)
+
+---
 
 📂 Project Structure
 
