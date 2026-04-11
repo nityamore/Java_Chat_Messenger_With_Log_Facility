@@ -52,17 +52,7 @@ File Handling (FileWriter, BufferedWriter)
 # 📂 Project Structure
 
 
-Java-Chat-Messenger-With-Log-Facility/
-│
-├── src/
-│   ├── Server.java
-│   └── Client.java
-│
-├── logs/
-│   └── chat_log.txt
-│
-├── README.md
-└── .gitignore
+Java-Chat-Messenger-With-Log-Facility/ │── src/ │   ├── Server.java │   └── Client.java │ │── logs/ │   └── chat_log.txt │ │── .gitignore │── README.md
 
 ---
 
