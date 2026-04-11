@@ -1,6 +1,6 @@
 # Java_Chat_Messenger_With_Log_Facility
 
-📌 Overview
+# 📌 Overview
 
 Java Chat Messenger is a simple client-server chat application built using Java Socket Programming. It enables real-time communication between a client and a server over a TCP connection.
 The application also includes a chat logging feature, which stores all exchanged messages in a file for future reference.
@@ -8,18 +8,18 @@ The application also includes a chat logging feature, which stores all exchanged
 ---
 
 
-This project demonstrates core concepts such as:
+## This project demonstrates core concepts such as:
 
-Java Networking
+-Java Networking
 
-I/O Streams
+-I/O Streams
 
-Client-Server Architecture
+-Client-Server Architecture
 
 ---
 
 
-🚀 Features
+# 🚀 Features
 
 Real-time communication between client and server
 
@@ -35,7 +35,7 @@ Easily extendable to multi-client systems
 
 ---
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Java
 
@@ -49,7 +49,7 @@ File Handling (FileWriter, BufferedWriter)
 
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 
 Java-Chat-Messenger-With-Log-Facility/
@@ -67,29 +67,35 @@ Java-Chat-Messenger-With-Log-Facility/
 ---
 
 
-⚙️ How to Run the Project
+# ⚙️ How to Run the Project
 
 1️⃣ Clone Repository
+
 git clone https://github.com/nityamore/Java_Chat_Messenger_With_Log_Facility.git
 
 2️⃣ Navigate to Source Directory
+
 cd Java-Chat-Messenger-With-Log-Facility/src
 
 3️⃣ Compile the Program
+
 javac Server.java
+
 javac Client.java
 
 4️⃣ Run the Server
+
 java Server
 
 5️⃣ Run the Client (in another terminal)
+
 java Client
 
 
 ---
 
 
-💬 How the Application Works
+# 💬 How the Application Works
 
 The server starts and waits for a client connection
 
@@ -102,7 +108,7 @@ All messages are stored in logs/chat_log.txt
 Communication continues until the session ends
 
 
-📝 Chat Log Example
+## 📝 Chat Log Example
 Client : Hello Server  
 Server : Hi Client  
 Client : Testing chat communication  
@@ -111,10 +117,10 @@ Server : Communication successful
 ---
 
 
-📸 Example Console Interaction
+# 📸 Example Console Interaction
 
 
-🖥️ Server
+## 🖥️ Server
 
 Server application is running...
 
@@ -126,7 +132,7 @@ Client says : Hello Server
 
 Enter message for client : Hi Client
 
-💻 Client
+## 💻 Client
 
 Client application is running...
 
@@ -140,7 +146,7 @@ Server says : Hi Client
 ---
 
 
-🔮 Possible Future Enhancements
+# 🔮 Possible Future Enhancements
 
 Support for multiple clients with improved messaging features
 
@@ -153,7 +159,7 @@ Message history tracking
 ---
 
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Nitya More
 Java Backend Developer (Fresher)
