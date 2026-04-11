@@ -6,11 +6,15 @@ Java Chat Messenger is a simple client-server chat application built using Java 
 The application also includes a chat logging feature, which stores all exchanged messages in a file for future reference.
 
 This project demonstrates core concepts like:
+
+
 Java Networking
 I/O Streams
 Client-Server Architecture
 
 🚀 Features
+
+
 Real-time communication between client and server
 TCP-based socket communication
 Console-based chat interface
@@ -19,12 +23,16 @@ Simple and lightweight design
 Easily extendable to multi-client systems
 
 🛠️ Technologies Used
+
+
 Java
 Socket Programming
 Java I/O Streams
 File Handling (FileWriter, BufferedWriter)
 
 📂 Project Structure
+
+
 
 Java-Chat-Messenger-With-Log-Facility/
 │
