@@ -1,46 +1,39 @@
 # Java_Chat_Messenger_With_Log_Facility
 
-# 💬 Java Chat Messenger with Log Facility
+📌 Overview
 
-## 📌 Overview
 Java Chat Messenger is a simple client-server chat application built using Java Socket Programming. It enables real-time communication between a client and a server over a TCP connection.
 The application also includes a chat logging feature, which stores all exchanged messages in a file for future reference.
-This project demonstrates core concepts like Java Networking, I/O Streams, and Client-Server Architecture.
 
----
+This project demonstrates core concepts like:
+Java Networking
+I/O Streams
+Client-Server Architecture
 
-## 🚀 Features
-- Real-time communication between client and server  
-- TCP-based socket communication  
-- Console-based chat interface  
-- Automatic message logging to file  
-- Simple and lightweight design  
-- Easily extendable to multi-client systems  
+🚀 Features
+Real-time communication between client and server
+TCP-based socket communication
+Console-based chat interface
+Automatic message logging to file
+Simple and lightweight design
+Easily extendable to multi-client systems
 
----
+🛠️ Technologies Used
+Java
+Socket Programming
+Java I/O Streams
+File Handling (FileWriter, BufferedWriter)
 
-## 🛠️ Technologies Used
-- Java  
-- Socket Programming  
-- Java I/O Streams  
-- File Handling (FileWriter, BufferedWriter)  
+📂 Project Structure
 
----
-
-## 📂 Project Structure
-
-
-Java-Chat-Messenger-With-Log-Facility
+Java-Chat-Messenger-With-Log-Facility/
 │
-├── src
-│   ├── Client.java
-│   └── Server.java
+├── src/
+│   ├── Server.java
+│   └── Client.java
 │
-├── logs
+├── logs/
 │   └── chat_log.txt
-│
-├── docs
-│   └── project_overview.md
 │
 ├── README.md
 └── .gitignore
@@ -56,7 +49,7 @@ git clone https://github.com/nityamore/Java-Chat-Messenger-With-Log-Facility.git
 
 ### 2️⃣ Navigate to Source Directory
 
-cd Java-Chat-Messenger-With-Log-Facility/src/chatmessenger
+cd Java-Chat-Messenger-With-Log-Facility/src
 
 ### 3️⃣ Compile the Program
 
@@ -76,10 +69,11 @@ java Client
 
 ## 💬 How the Application Works
 
-- The client connects to the server using a socket  
-- Messages are exchanged using *input/output streams*  
-- All messages are stored in chat_log.txt  
-- Communication continues until the client ends the session
+-The server starts and waits for a client connection
+-The client connects using a socket
+-Messages are exchanged using input/output streams
+-All messages are stored in logs/chat_log.txt
+-Communication continues until the session ends
   
 ---
 
