@@ -12,31 +12,35 @@ Java Networking
 I/O Streams
 Client-Server Architecture
 
+
+
 🚀 Features
 
 
-Real-time communication between client and server
+-Real-time communication between client and server
 
-TCP-based socket communication
+-TCP-based socket communication
 
-Console-based chat interface
+-Console-based chat interface
 
-Automatic message logging to file
+-Automatic message logging to file
 
-Simple and lightweight design
+-Simple and lightweight design
 
-Easily extendable to multi-client systems
+-Easily extendable to multi-client systems
+
+
 
 🛠️ Technologies Used
 
 
-Java
+-Java
 
-Socket Programming
+-Socket Programming
 
-Java I/O Streams
+-Java I/O Streams
 
-File Handling (FileWriter, BufferedWriter)
+-File Handling (FileWriter, BufferedWriter)
 
 📂 Project Structure
 
